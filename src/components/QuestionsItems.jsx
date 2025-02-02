@@ -3,7 +3,7 @@ import setaPlay from "../assets/seta_play.png";
 import setaVirar from "../assets/seta_virar.png";
 import iconeErro from "../assets/icone_erro.png";
 import iconeCerto from "../assets/icone_certo.png";
-import iconeQuase from "../assets/icone_Quase.png";
+import iconeQuase from "../assets/icone_quase.png";
 import { useState } from "react";
 
 export default function QuestionsItems(props) {
