@@ -56,7 +56,7 @@ const Items = styled.div`
         null)};
     position: relative;
     text-align: center;
-    width: 300px;
+    width: 80vw;
     color: ${props => (
         props.$phase === 3 ? 'rgba(255, 48, 48, 1)' :
         props.$phase === 4 ? 'rgba(255, 146, 46, 1)' : 

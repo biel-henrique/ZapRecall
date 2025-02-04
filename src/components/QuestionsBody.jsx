@@ -23,7 +23,7 @@ export default function QuestionsBody({cards}) {
 
 const Body = styled.div`
     box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.3);
-    min-width: 430px;
+    width: 100vw;
     min-height: 100vh;
     background-color: rgba(251, 107, 107, 1);
     position: relative;
